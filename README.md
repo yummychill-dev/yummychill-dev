@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋, I'm Rohan Patankar
 
-<!--
-**yummychill-dev/yummychill-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohanpatankar)
 
-Here are some ideas to get you started:
+![Profile views](https://komarev.com/ghpvc/?username=rohanpatankar926&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me:
+- 🔭 I’m currently building a product related to **GENAI, MLOps, LLMs**.
+- 🌱 I’m currently learning **Advanced System Development, System Design**.
+- 👨‍💻 Check out my portfolio: [https://rohanpatankar.netlify.app](https://rohanpatankar.netlify.app)
+- 💬 Ask me about **Data Science, ML, DL, Web Development**.
+- 📄 Know about my experiences: [Resume](#)
