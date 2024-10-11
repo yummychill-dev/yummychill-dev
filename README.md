@@ -1,7 +1,7 @@
 # Hi 👋, I'm Yash Jagwani                                                                                                                   
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/yashXjagwani)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashXjagwani)
 
 ![Profile views](https://komarev.com/ghpvc/?username=rohanpatankar926&color=blue)
 
