@@ -10,7 +10,6 @@
 - 🌱 Specializing in Data Wrangling, EDA, Pre-Processing, and Predictive Modeling.
 - 👨‍💻 Check out my portfolio: https://yummychill-dev.framer.website
 - 💬 Ask me about **Data Science, ML, DL, AI**.
-- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/16Oyt21HXrMuRO1h3779ZQv1hsTmFo893qPkkZpadBKU/edit?usp=sharing)
 
 ## Skills
 
